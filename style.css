@@ -1,0 +1,76 @@
+body {
+  background-color: lightgrey;
+}
+h1 {
+  color: lightgrey; 
+  font-family: Verdana, Helvetica, sans-serif; 
+  text-transform: uppercase;
+}
+h2 {
+  color: lightgrey; 
+  font-size: 10px;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+h3 {
+  color: dimgrey;
+  font-size: 15px;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+h4 {
+  color: dimgrey;
+  font-size: auto;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+h5 {
+  color: dimgrey;
+  font-size: auto;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+h6 {
+  color: lightgrey;
+  font-size: auto;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+.contact {
+  background-color: midnightblue;
+  padding-left: 10px; 
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+}
+.objective {
+  color: grey;
+  font-size: 12px;
+  text-align: center;
+}
+.experience {
+ text-transform: uppercase;
+ border-top: 1px solid darkslateblue;
+}
+.jobdetails {
+  display:grid; 
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap; 10px;
+  border-top: 1px solid darkslateblue;
+  border-bottom: 1px solid darkslateblue;
+}
+.employername {
+  text-transform: uppercase;
+}
+.jobtitle {
+  text-transform: uppercase;
+}
+.jobdates {
+  font-style: italic;
+}
+.jobduties {
+  font-family: Verdana, Helvetica, sans-serif;
+  color: dimgrey;
+}
+.footer {
+  background-color: midnightblue;
+  text-align: center;
+  border-top: 1px solid darkslateblue;
+  border-bottom: 1px solid darkslateblue;
+}
