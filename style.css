@@ -1,59 +1,58 @@
 body {
-  background-color: lightgrey;
+  background-color: #f3f3f3;
 }
 h1 {
-  color: lightgrey; 
+  color: #f3f3f3; 
   font-family: Verdana, Helvetica, sans-serif; 
   text-transform: uppercase;
 }
 h2 {
-  color: lightgrey; 
+  color: #f3f3f3; 
   font-size: 10px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 h3 {
-  color: dimgrey;
-  font-size: 15px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 h4 {
-  color: dimgrey;
+  color: #3c1874;
   font-size: auto;
   font-family: Verdana, Helvetica, sans-serif;
 }
 h5 {
-  color: dimgrey;
+  color: #283747;
   font-size: auto;
   font-family: Verdana, Helvetica, sans-serif;
 }
 h6 {
-  color: lightgrey;
+  color: #f3f3f3;
   font-size: auto;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
 .contact {
-  background-color: midnightblue;
+  background-color: #3C1874;
   padding-left: 10px; 
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 10px;
 }
 .objective {
-  color: grey;
-  font-size: 12px;
+  color: #932432;
+  font-size: 12.5px;
   text-align: center;
 }
 .experience {
+ color: #3c1874;
  text-transform: uppercase;
- border-top: 1px solid darkslateblue;
+ border-top: 1px solid #3c1874;
 }
 .jobdetails {
   display:grid; 
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap; 10px;
-  border-top: 1px solid darkslateblue;
-  border-bottom: 1px solid darkslateblue;
+  border-top: 1px solid #3c1874;
+  border-bottom: 1px solid #3c1874;
 }
 .employername {
   text-transform: uppercase;
@@ -69,8 +68,8 @@ h6 {
   color: dimgrey;
 }
 .footer {
-  background-color: midnightblue;
+  background-color: #3c1874;
   text-align: center;
-  border-top: 1px solid darkslateblue;
-  border-bottom: 1px solid darkslateblue;
+  border-top: 1px solid #3c1874;
+  border-bottom: 1px solid #3c1874;
 }
